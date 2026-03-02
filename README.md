@@ -16,5 +16,5 @@ I build scalable web applications, clean APIs, and real-time microservices using
 - Optimize database queries & backend performance
 
 ## 📫 Connect with Me
-- LinkedIn: (add link)
-- Portfolio: (optional)
+- LinkedIn: https://www.linkedin.com/in/maseeha-mehmood-468a4522b
+
